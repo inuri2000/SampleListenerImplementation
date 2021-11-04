@@ -20,4 +20,5 @@ In this example listner implementation, We have used two readily available listn
 - Generate keys for the application.
 - Navigate to the management console and view the service provider created for the application and you will see that the setUseUserstoreDomainInLocalSubjectIdentifier option is enabled under the localAndOutboundAuthenticationconfigurations.
 
-**Note: Please note that this is a sample implementation and WSO2 team is not responsible for any code quality or does not gurantee that this implementation will work for all APIM products as the implementation could change overtime. Hence you are responsibel to use this as a sample and implement the logic as per your requirenment and maintaining the listner.
+**Note: Please note that this is a sample implementation and WSO2 team is not responsible for any code quality or does not gurantee that this implementation will work for all APIM products as the implementation could change overtime. 
+Hence you are responsible to refer to this as a sample and implement the logic as per your requirenment and maintaining the listner.
